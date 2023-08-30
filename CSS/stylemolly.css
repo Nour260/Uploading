@@ -186,7 +186,7 @@ header .cont {
 }
 
 .home {
-    background-image: url(/img/Slider\ Background.jpg);
+    background-image: url(img/Slider\ Background.jpg);
     background-size: cover;
     height: calc(100vh - 80px);
     display: flex;
@@ -343,7 +343,7 @@ header .cont {
 .cont-icona {
     width: 150px;
     height: 150px;
-    background-image: url(/img/esagono.png);
+    background-image: url(img/esagono.png);
     align-items: center;
     display: flex;
     justify-content: center;
@@ -393,7 +393,7 @@ header .cont {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(/img/bacground-desing\ \(1\).jpg);
+    background-image: url(img/bacground-desing\ \(1\).jpg);
     background-size: cover;
     height: 50vh;
     padding-bottom: 10px;
